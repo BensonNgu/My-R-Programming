@@ -41,7 +41,7 @@ Steps to contribute:
 
 📜 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License — see the <kbd>[LICENSE](My-R-Programming?tab=MIT-1-ov-file)</kbd> file for details.
 
 
 ---
