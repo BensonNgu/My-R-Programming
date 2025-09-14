@@ -23,7 +23,6 @@ This repository is a knowledge hub where I document useful concepts, examples, a
 ---
 
 🤝 Contributing
-
 Contributions are welcome! You can:
 - Add new notes or snippets
 - Improve existing explanations
@@ -37,11 +36,12 @@ Steps to contribute:
 4. Push to your branch
 5. Open a Pull Request 🎉
 
+<kbd>[Details](/CONTRIBUTING.md)</kbd>
 ---
 
 📜 License
 
-This project is licensed under the MIT License — see the <kbd>[LICENSE](My-R-Programming?tab=MIT-1-ov-file)</kbd> file for details.
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 
 ---
